@@ -1,3 +1,5 @@
-sleep is for the weak, no rest for the wicked.
+<center>
+  sleep is for the weak, no rest for the wicked.
 
-![Wick](/images/wick.gif)
+  ![Wick](/images/wick.gif)
+</center>
